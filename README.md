@@ -1,8 +1,8 @@
 # C3P
-Code implementation of our accepted paper: C3P.
+Code implementation of our accepted paper: C3P (Code-Comment Pre-Training).
 
 
-## Code-Comment Pre-Trainings
+## Code-Comment Pre-Training
 
 
 ### 1. Brief Introduction
