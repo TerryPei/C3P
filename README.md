@@ -20,8 +20,8 @@ Our model has been uploaded to the Huggingface community. You can directly load 
 
 ```
 from models.model import C3PModel, Config
-config = Config
-c3p = C3PModel(config=Config())
+config = Config('eot')
+c3p = C3PModel(config=config)
 ```
 And you can also load single encoder with the following lines:
 
