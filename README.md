@@ -16,13 +16,21 @@ This repository contains official implementation of the paper C3P (Code-Comment 
 
 > How to use?
 
-Our model has been uploaded to Huggingace community. You can directly load with the following lines:
+Our model has been uploaded to the Huggingface community. You can directly load with the following lines:
 
 ```
 from models.model import C3PModel, Config
 config = Config
 c3p = C3PModel(config=Config())
 ```
+And if you can also load single encoder with the following lines:
+
+```
+from transformers import AutoModel
+code_encoder = AutoModel.from_pretrained("TerryPei/CL")
+comment_encoder = AutoModel.from_pretrained("TerryPei/NL")
+```
+
 
 > How to reproduce?
 * 1. Deploy our files on the Linux. Download the datasets and move to the 
