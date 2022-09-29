@@ -11,7 +11,7 @@ This repository contains official implementation of the paper C3P (Code-Comment 
 #### Architecture
 
 <p align="center">
-        <img src="results/figs/arch.png" width="600"/></a>
+        <img src="results/figs/arch.png" width="800"/></a>
 </p>
 
 ```
