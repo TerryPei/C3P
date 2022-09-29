@@ -23,7 +23,7 @@ from models.model import C3PModel, Config
 config = Config
 c3p = C3PModel(config=Config())
 ```
-And if you can also load single encoder with the following lines:
+And you can also load single encoder with the following lines:
 
 ```
 from transformers import AutoModel
