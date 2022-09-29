@@ -1,5 +1,5 @@
 # C3P
-Code implementation of C3P model
+Code implementation of our accepted paper: C3P.
 
 
 ## Code-Comment Pre-Trainings
