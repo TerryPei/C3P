@@ -15,6 +15,7 @@ This repository contains official implementation of the paper C3P (Code-Comment 
 </p>
 
 > How to use?
+
 Our model has been uploaded to Huggingace community. You can directly load with the following lines:
 
 ```
