@@ -1,10 +1,7 @@
 from transformers import AutoTokenizer, AutoModel
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
-from torch.utils.data import DataLoader, Dataset, SequentialSampler, RandomSampler,TensorDataset
 from transformers import AutoModel
-import numpy as np
 
 class C3PModel(nn.Module):
     
