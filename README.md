@@ -14,13 +14,16 @@ This repository contains official implementation of the paper C3P (Code-Comment 
         <img src="results/figs/arch.png" width="800"/></a>
 </p>
 
+> How to use?
+Our model has been uploaded to Huggingace community. You can directly load with the following lines:
+
 ```
 from models.model import C3PModel, Config
 config = Config
 c3p = C3PModel(config=Config())
 ```
 
-> How to run?
+> How to reproduce?
 * 1. Deploy our files on the Linux. Download the datasets and move to the 
 
 * 2. Replace the path to your own path of files.
