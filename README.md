@@ -1,6 +1,9 @@
 # C3P
 Code implementation of our accepted paper: C3P (Code-Comment Pre-Training).
 
+![LICENSE](https://img.shields.io/github/license/TerryPei/AGCDM)
+![VERSION](https://img.shields.io/badge/version-v1.01-blue)
+![PYTHON](https://img.shields.io/badge/python-3.8-orange)
 
 ## Code-Comment Pre-Training
 
